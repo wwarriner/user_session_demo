@@ -2,7 +2,9 @@
 1. Open browser to https://code.visualstudio.com/
 1. Open VSCode new window
 1. Have demo repo on PC
+1. Have this file open somewhere for notes
 1. Be ready to connect to Cheaha via Remote Dev
+1. Have repo url ready to copy onto Cheaha
 
 # VS Code
 
